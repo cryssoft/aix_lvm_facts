@@ -4,7 +4,7 @@
   "author": "Chris Petersen, Crystallized Software",
   "summary": "Collects structured facts about AIX volume groups and logical volumes",
   "license": "Apache-2.0",
-  "source": "",
+  "source": "https://github.com/cryssoft/aix_lvm_facts",
   "project_page": null,
   "issues_url": null,
   "dependencies": [
