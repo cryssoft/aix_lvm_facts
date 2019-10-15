@@ -9,4 +9,4 @@
 # Learn more about module testing here:
 # https://puppet.com/docs/puppet/latest/bgtm.html#testing-your-module
 #
-include ::aix_vg_facts
+include ::aix_lvm_facts
