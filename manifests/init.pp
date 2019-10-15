@@ -1,7 +1,7 @@
-# Class: aix_vg_facts
+# Class: aix_lvm_facts
 # ===========================
 #
-# Full description of class aix_vg_facts here.
+# Full description of class aix_lvm_facts here.
 #
 # Parameters
 # ----------
@@ -28,7 +28,7 @@
 # --------
 #
 # @example
-#    class { 'aix_vg_facts':
+#    class { 'aix_lvm_facts':
 #      servers => [ 'pool.ntp.org', 'ntp.local.company.com' ],
 #    }
 #
@@ -42,7 +42,7 @@
 #
 # Copyright 2019 Your name here, unless otherwise noted.
 #
-class aix_vg_facts {
+class aix_lvm_facts {
 
 
 }
