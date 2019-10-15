@@ -1,6 +1,6 @@
 {
   "name": "cryssoft-aix_lvm_facts",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "author": "Chris Petersen, Crystallized Software",
   "summary": "Collects structured facts about AIX volume groups and logical volumes",
   "license": "Apache-2.0",
@@ -8,10 +8,7 @@
   "project_page": null,
   "issues_url": null,
   "dependencies": [
-    {
-      "name": "puppetlabs-stdlib",
-      "version_requirement": ">= 1.0.0"
-    }
   ],
-  "data_provider": null
+  "data_provider": null,
+  "os_support": "AIX"
 }
