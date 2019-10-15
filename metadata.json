@@ -1,6 +1,6 @@
 {
   "name": "cryssoft-aix_lvm_facts",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "author": "Chris Petersen, Crystallized Software",
   "summary": "Collects structured facts about AIX volume groups and logical volumes",
   "license": "Apache-2.0",
@@ -10,5 +10,13 @@
   "dependencies": [
   ],
   "data_provider": null,
-  "os_support": "AIX"
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "AIX",
+      "operatingsystemrelease": [
+        "6",
+        "7"
+      ]
+    }
+  ]
 }
